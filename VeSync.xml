@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+		<id>https://mzstoreservices-int.dslb.apple.com/cn/rss/customerreviews/page=1/id=1289575311/sortby=mostrecent/xml?User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.97+Safari%2F537.36</id><title>iTunes Store：用户评论</title><updated>2021-03-02T22:23:39-07:00</updated><link rel="alternate" type="text/html" href="https://apps.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=cn&amp;id=29099"/><link rel="self" href="https://mzstoreservices-int.dslb.apple.com/cn/rss/customerreviews/page=1/id=1289575311/sortby=mostrecent/xml?User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.97+Safari%2F537.36"/><link rel="first" href=""/><link rel="last" href=""/><link rel="previous" href=""/><link rel="next" href=""/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+	</feed>
