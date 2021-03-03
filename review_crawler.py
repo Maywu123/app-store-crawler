@@ -41,10 +41,10 @@ def get_review_list():
 
             response = requests.get(url, settings.headers)
             if response.status_code == 200:
-                with open('VeSync.xml', 'wb') as fp:
+                with open('test.xml', 'wb') as fp:
                     fp.write(response.content)
 
-            dom_tree = parse("VeSync.xml")
+            dom_tree = parse("test.xml")
             root_node = dom_tree.documentElement
             entrys = root_node.getElementsByTagName("entry")
             if entrys:
